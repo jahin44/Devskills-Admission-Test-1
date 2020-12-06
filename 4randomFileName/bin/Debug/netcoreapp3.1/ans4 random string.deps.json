@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ans4 random string/1.0.0": {
+        "runtime": {
+          "ans4 random string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ans4 random string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

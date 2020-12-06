@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.AssemblyInfo.cs
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.exe
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.deps.json
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.runtimeconfig.json
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.dll
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\bin\Debug\netcoreapp3.1\ans4 random string.pdb
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.dll
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.pdb
+C:\Users\PC\source\repos\ans4 random string\ans4 random string\obj\Debug\netcoreapp3.1\ans4 random string.genruntimeconfig.cache

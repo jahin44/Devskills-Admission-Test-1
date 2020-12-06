@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.AssemblyInfo.cs
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.exe
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.deps.json
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.runtimeconfig.json
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.runtimeconfig.dev.json
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.dll
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\bin\Debug\netcoreapp3.1\OddDigitsfile.pdb
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.dll
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.pdb
+C:\Users\PC\source\repos\OddDigitsfile\OddDigitsfile\obj\Debug\netcoreapp3.1\OddDigitsfile.genruntimeconfig.cache
