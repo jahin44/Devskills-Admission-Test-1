@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\ans4 random string\\ans4 random string\\ans4 random string.csproj": {}
+    "D:\\devskills\\4randomFileName\\ans4 random string.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\ans4 random string\\ans4 random string\\ans4 random string.csproj": {
+    "D:\\devskills\\4randomFileName\\ans4 random string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\ans4 random string\\ans4 random string\\ans4 random string.csproj",
+        "projectUniqueName": "D:\\devskills\\4randomFileName\\ans4 random string.csproj",
         "projectName": "ans4 random string",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\ans4 random string\\ans4 random string\\ans4 random string.csproj",
+        "projectPath": "D:\\devskills\\4randomFileName\\ans4 random string.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\ans4 random string\\ans4 random string\\obj\\",
+        "outputPath": "D:\\devskills\\4randomFileName\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
